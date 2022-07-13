@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Chukwuemekalum Chiemelu"
-  avatar : "/assets/images/chukwuemekalum350x350sp-s.JPG"
+  avatar : "/assets/images/chukwuemekalum350x350sq-s.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
