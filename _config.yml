@@ -74,10 +74,13 @@ author:
       url: "https://twitter.com/danielchiemelu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/Chukwuemekalum"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielchiemelu/"
+    - label: "@danielchiemelu"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/danielchiemelu"
 
 footer:
   links:
