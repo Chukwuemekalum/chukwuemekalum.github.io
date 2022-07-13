@@ -60,18 +60,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chukwuemekalum Chiemelu"
+  name   : "C. Daniel Chiemelu"
   avatar : "/assets/images/chukwuemekalum350x350sq-s.JPG"
   bio    : 
     Software Developer in love with building web products.
     Interested in anime & music.
   links:
-    - label: "Website"
+    - label: "chukwuemekalum.com"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://chukwuemekalum.com"
+    - label: "@danielchiemelu"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/danielchiemelu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
