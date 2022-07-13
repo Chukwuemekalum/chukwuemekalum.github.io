@@ -62,7 +62,9 @@ plugins:
 author:
   name   : "Chukwuemekalum Chiemelu"
   avatar : "/assets/images/chukwuemekalum350x350sq-s.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : 
+    Software Developer in love with building web products.
+    Interested in anime & music.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
