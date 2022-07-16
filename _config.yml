@@ -98,12 +98,17 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/danielchiemelu"
 
+words_per_minute: 150
+
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
 comments:
   provider: "disqus"
   disqus:
     shortname: "chukwuemekalum"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
@@ -131,3 +136,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
