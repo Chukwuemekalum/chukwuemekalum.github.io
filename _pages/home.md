@@ -7,6 +7,9 @@ header:
   image: /assets/images/homepage-background-sao.jpg
 ---
 
+Hi 👋
+
+My name is Chukwuemekalum Daniel Chiemelu and I am alive
 I am Chukwuemekalum Daniel Chiemelu. Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum: 
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
