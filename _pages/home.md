@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/3339083 (4).jpg
+  image: /assets/images/3339083.jpg
 ---
 
 I am an assistant professor of economics at the University of Oregon. My research fields are environmental and resource economics, which means that I study the interactions between human and natural systems. Broadly speaking, I am interested in questions like: 
