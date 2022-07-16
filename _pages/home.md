@@ -11,8 +11,9 @@ classes: wide
 
 Hi 👋
 
-My name is Chukwuemekalum Daniel Chiemelu and I am alive
-I am Chukwuemekalum Daniel Chiemelu. Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum: 
+My name is Chukwuemekalum Daniel Chiemelu and I am alive.
+
+Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum, all still remains my name  
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
 - How should societies manage their natural resources when they are faced with uncertainty? 
