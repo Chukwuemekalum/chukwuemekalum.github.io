@@ -7,7 +7,7 @@ header:
   image: /assets/images/homepage-background-sao.jpg
 ---
 
-I am an assistant professor of economics at the University of Oregon. My research fields are environmental and resource economics, which means that I study the interactions between human and natural systems. Broadly speaking, I am interested in questions like: 
+I am Chukwuemekalum Daniel Chiemelu. Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum: 
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
 - How should societies manage their natural resources when they are faced with uncertainty? 
