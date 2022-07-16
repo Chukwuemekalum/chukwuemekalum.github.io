@@ -3,8 +3,8 @@ permalink: /
 title: "Welcome"
 author_profile: true
 classes: wide
-header:
-  image: /assets/images/homepage-background-sao.jpg
+# header:
+#   image: /assets/images/homepage-background-sao.jpg
 ---
 
 <img src="/assets/images/chukwuemekalum-chiemelu-homepage.png" style="max-height: 400px">
