@@ -65,6 +65,7 @@ author:
   bio    : 
     Software Developer in love with building web products.
     Interested in anime & music.
+  location : Enugu, NG
   links:
     - label: "chukwuemekalum.com"
       icon: "fas fa-fw fa-link"
@@ -97,33 +98,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/danielchiemelu"
 
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+# Comments
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "chukwuemekalum"
 
 defaults:
   # _posts
