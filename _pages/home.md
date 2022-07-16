@@ -13,5 +13,5 @@ Hi 👋
 
 My name is Chukwuemekalum Daniel Chiemelu and I am alive.
 
-Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum, all still remains my name  
+Often seen in some online platforms as Daniel Chiemelu or Chukwuemekalum, all still remains my name.  
   
