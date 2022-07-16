@@ -13,27 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chukwuemekalum D. Chiemelu
-url: https://chukwuemekalum.com
-
-# repository: chukwuemekalum/chukwuemekalum.github.io
-github: [metadata]
-email: contact@chukwuemekalum.live
-description: >- # this means to ignore newlines in the text below
-  Chukwuemekalum Chiemelu's personal website.
-twitter_username: danielchiemelu
-github_username: chukwuemekalum
-minimal_mistakes_skin: "dirt" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+title: MM
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
-timezone: Africa/Lagos # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -60,50 +58,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "C. Daniel Chiemelu"
-  avatar : "/assets/images/chukwuemekalum350x350sq-s.JPG"
-  bio    : 
-    Software Developer in love with building web products.
-    Interested in anime & music.
-  location : Enugu, NG
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "chukwuemekalum.com"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://chukwuemekalum.com"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@chukwuemekalum.live"
-    - label: "@danielchiemelu"
+      url: "https://"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danielchiemelu"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Chukwuemekalum"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/danielchiemelu/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/chukwuemekalumchiemelu"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/danielchiemelu/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/chukwuemekalumchiemelu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/danielchiemelu"
-
-# Comments
-# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "chukwuemekalum"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
