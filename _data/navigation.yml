@@ -5,6 +5,6 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "CV"
-    url: "/assets/docs/alitursucular-senior-frontend-engineer-cv.pdf"
+    url: {{site.auto.cv}}
   - title: "Archive"
     url: /posts/

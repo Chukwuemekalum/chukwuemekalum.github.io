@@ -48,7 +48,10 @@ I have been working on different personal coding projects that would make my ani
 
 ## Finally
 
-I am <span id="age"></span> years old
+Thank you for making it to the end.... Domo Arigato gozaimas 🙇‍♀️. I guessed I probably wrote too much than I expected; well.. <br>
+I was born October 8, currently <span id="age"></span> years old. I owe God my everything 🙏. <br>
+That's technically a brief summary of me. <br>
+I'm not popular, but if you are probably having issues with some of my social media links, here is a detailed [page link]({{site.url}}/links/) to some extent of where I am.
 
 <script>
     document.getElementById("age").innerHTML = getMyAge("08/10/2003");
