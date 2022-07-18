@@ -19,13 +19,13 @@ locale                   : "en"
 title                    : Chukwuemekalum D. Chiemelu
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ali Turşucular"
+name                     : "Chukwuemekalum"
 description: >- # this means to ignore newlines in the text below
   Chukwuemekalum Chiemelu's personal website.
 twitter_username: danielchiemelu
 github_username: chukwuemekalum
 search: true
-url                      : "https://alitursucular.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chukwuemekalum.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # repository: chukwuemekalum/chukwuemekalum.github.io
 github: [metadata]
