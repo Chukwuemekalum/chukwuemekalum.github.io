@@ -16,11 +16,12 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en"
-title                    : "Chukwuemekalum D. Chiemelu"
+title                    : Chukwuemekalum D. Chiemelu
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ali Turşucular"
-description              : "Welcome to my GitHub Pages! I am a Senior Front End Engineer and a contractor in London, UK" # Both the regular and the og:description
+description: >- # this means to ignore newlines in the text below
+  Chukwuemekalum Chiemelu's personal website.
 url                      : "https://alitursucular.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alitursucular/alitursucular.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,33 +94,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Tursucular"
-  avatar           : "/assets/images/alitursucular-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Front End Engineer, product designer, manufacturing enthusiast, skier, and guitarist"
-  location         : "London, UK"
+  name   : "C. Daniel Chiemelu"
+  avatar : "/assets/images/alitursucular-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio    : 
+    Software Developer in love with building web products.
+    Interested in anime & music.
+  location : New GRA, Enugu
   email            :
   links:
+    - label: "chukwuemekalum.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://chukwuemekalum.com"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:alitursucular@gmail.com
-    # - label: "Website"
-      # icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    # - label: "Twitter"
-      # icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alitursucular/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/alitursucular"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:contact@chukwuemekalum.live"
+    - label: "@danielchiemelu"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/danielchiemelu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alitursucular"
-    # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/Chukwuemekalum"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielchiemelu/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/chukwuemekalumchiemelu"
 
 # Site Footer
 footer:
