@@ -51,5 +51,5 @@ I have been working on different personal coding projects that would make my ani
 I am <span id="age"></span> years old
 
 <script>
-    document.getElementById("age").text = getMyAge("08/10/2003");
+    document.getElementById("age").innerHTML = getMyAge("08/10/2003");
 </script>
