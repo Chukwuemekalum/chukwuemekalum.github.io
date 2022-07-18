@@ -34,21 +34,23 @@ email: contact@chukwuemekalum.live
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/images/pinecone-software-limited-small-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true  # true, false (default)
 words_per_minute         : 150
 comments:
   provider: "disqus"
   disqus:
     shortname: "chukwuemekalum"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+  
 
 # Social Sharing
 twitter:
-  username               :
+  username               : danielchiemelu
 facebook:
   username               :
   app_id                 :
@@ -57,9 +59,14 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person # Person or Organization (defaults to Person)
+  name: Chukwuemekalum Chiemelu # If the user or organization name differs from the site's name
+  links: 
+    - "https://twitter.com/danielchiemelu"
+    - "https://www.facebook.com/danielchiemelu"
+    - "https://www.facebook.com/chukwuemekalumchiemelu"
+    - "https://instagram.com/danielchiemelu"
+    - "https://www.linkedin.com/in/danielchiemelu"
 
 # Analytics
 analytics:
