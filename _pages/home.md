@@ -26,23 +26,30 @@ Some details that would not be added in the CV for now. After 4 years of working
 ## My Musicals
 
 I love playing musical instruments. Like:
-[br]**i.** Piano  **ii.** Organ  **iii.** Keyboard
-[br]I play those on various instances, like in church hymnals, praises in church, anime themes.
+<br>**i.** Piano  **ii.** Organ  **iii.** Keyboard
+<br>I play those on various instances, like in church hymnals, praises in church, anime themes.
 
 <img src="/assets/images/chukwuemekalum-chiemelu-homepage.png" style="max-height: 400px">
 
-**iv.** Violin (Still learning phase) [br]
-**v.** Drums (I just make some noise 😂) [br]
+**iv.** Violin (Still learning phase) <br>
+**v.** Drums (I just make some noise 😂) <br>
 I hope to learn some more in the future. But for now, my driving passion to restart my violin journey was the need to play my anime tunes for my future partner :) and I really wanted to go back to violin again.
 
 ## My Anime
 
-The intro could have not been complete if I didn't write about anime 😄😂 [br]
+The intro could have not been complete if I didn't write about anime 😄😂 <br>
 If not for anything, my banner image is Sword Art Online's landscape image.
-My top three animes are:[br]
+My top three animes are:<br>
 
 - Dragon Ball
 - Sword Art Online
 - One Piece
 I have been working on different personal coding projects that would make my anime passion more exciting.
 
+## Finally
+
+I am <span id="age"></span> years old
+
+<script>
+    document.getElementById("age").text = getMyAge("08/10/2003");
+</script>
