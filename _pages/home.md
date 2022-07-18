@@ -33,6 +33,11 @@ I play those on various instances, like in church hymnals, praises in church, an
 
 **iv.** Violin (Still learning phase)
 **v.** Drums (I just make some noise 😂)
+I hope to learn some more in the future. But for now, my driving passion to restart my violin journey was the need to play my anime tunes for my future partner :) and I really wanted to go back to violin again.
+
+## My Anime
+
+The intro could have not been complete if I didn't write about anime 😄😂
 
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
