@@ -19,7 +19,7 @@ I was in Arts in my Secondary School (Highschool) at [Federal Government College
 
 ## My Coding
 
-I don't have any degree in Engineering as all my studies so far has been in the Arts side not sciences. Maybe in the future when I consider taking a course in a popular online or physical institution, I would have more details to put. But for now I am self taught, and it would be difficult for me to write my tech stack here and what I've done so far. Please refer to my [CV]({{site.author.cv}}){:target="_blank"}
+I don't have any degree in Engineering as all my studies so far has been in the Arts side not sciences. Maybe in the future when I consider taking a course in a popular online or physical institution, I would have more details to put. But for now I am self taught, and it would be difficult for me to write my tech stack here and what I've done so far. Please refer to my [CV]({{site.author.cv}}){:target="_blank"}. But in summary I'm a PHP fan boy.
 
 Some details that would not be added in the CV for now. After 4 years of working with Core PHP, stumbled onto Laravel Framework (21/03/2022) and completed a course. I am currently not using it, but it was a fun experience during the course, look forward to praciticing it more. I always wanted to learn C++, so I bought a course (12/07/2022), I haven't started it as of (18/07/2022), but I look forward to what C++ has to offer for me.
 
