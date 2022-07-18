@@ -30,30 +30,16 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 # repository: chukwuemekalum/chukwuemekalum.github.io
 github: [metadata]
 email: contact@chukwuemekalum.live
+
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/images/pinecone-software-limited-small-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-reCaptcha:
-  siteKey                :
-  secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+    shortname: "chukwuemekalum"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
