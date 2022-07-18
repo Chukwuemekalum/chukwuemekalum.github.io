@@ -6,7 +6,5 @@ main:
     url: /blog/
   - title: "CV"
     url: "/assets/docs/alitursucular-senior-frontend-engineer-cv.pdf"
-  - title: "About"
-    url: /about/
   - title: "Archive"
     url: /posts/
