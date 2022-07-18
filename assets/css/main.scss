@@ -4,6 +4,30 @@
 
 @charset "utf-8";
 
+// Define colors 
+$brian-clicked-link: #265aeb;
+$brian-unclicked-link: #1e38af;
+$brian-creme: #fafafa;
+$white: #ffffff;
+$color-link-grey: #3E4245;
+
+// Post headers
+$link-color: $brian-unclicked-link;
+
+// Change background of website to creme. From: https://brianlovin.com/
+$background-color: $white; 
+
+/* type scale */
+$type-size-1: 2.441em !default;
+$type-size-2: 1.953em !default;
+$type-size-3: 1.563em !default;
+$type-size-4: 1.25em !default;
+$type-size-5: 1.1em !default;
+$type-size-5b: 0.9em !default;
+$type-size-6: 0.8em !default;
+$type-size-7: 0.8em !default;
+$type-size-8: 0.625em !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 // // Define colors 
