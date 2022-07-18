@@ -38,6 +38,11 @@ I hope to learn some more in the future. But for now, my driving passion to rest
 ## My Anime
 
 The intro could have not been complete if I didn't write about anime 😄😂
+If not for anything, my banner image is Sword Art Online's landscape image.
+My top three animes are:
+- Dragon Ball
+- Sword Art Online
+- One Piece
 
 
 - How do changes in environmental conditions affect the economy, and vice versa? 
