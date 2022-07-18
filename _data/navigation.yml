@@ -1,16 +1,12 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: "/assets/docs/alitursucular-senior-frontend-engineer-cv.pdf"
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Archive"
+    url: /posts/
