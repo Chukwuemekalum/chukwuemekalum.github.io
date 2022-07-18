@@ -22,6 +22,9 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Ali Turşucular"
 description: >- # this means to ignore newlines in the text below
   Chukwuemekalum Chiemelu's personal website.
+twitter_username: danielchiemelu
+github_username: chukwuemekalum
+search: true
 url                      : "https://alitursucular.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alitursucular/alitursucular.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -34,25 +37,11 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -126,25 +115,13 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alitursucular/"
-    # - label: "Twitter"
-      # icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://www.linkedin.com/in/danielchiemelu/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/alitursucular"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alitursucular"
-    # - label: "GitLab"
-      # icon: "fab fa-fw fa-gitlab"
-      # url:
-    # - label: "Bitbucket"
-      # icon: "fab fa-fw fa-bitbucket"
-      # url:
-    # - label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/chukwuemekalumchiemelu"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/danielchiemelu"
 
 
 # Reading Files
@@ -215,7 +192,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 6 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Lagos # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
