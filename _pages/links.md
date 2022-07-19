@@ -14,10 +14,20 @@ My Domain Names:
 Twitter:
 
 - [https://twitter.com/danielchiemelu](https://twitter.com/danielchiemelu)
-- [https://twitter.com/enlitenthem](https://twitter.com/enlitenthem)
+- [~~https://twitter.com/enlitenthem~~](https://twitter.com/enlitenthem) - On a break
 
 Facebook:
 
 - [https://fb.com/chukwuemekalumchiemelu](https://facebook.com/chukwuemekalumchiemelu) - My Personal Facebook
 - [https://fb.com/danielchiemelu](https://facebook.com/danielchiemelu) - My Facebook Page
-- [~~https://facebook.com/enlitenthem~~](https://facebook.com/enlitenthem)
+- [~~https://facebook.com/enlitenthem~~](https://facebook.com/enlitenthem) - On a break
+
+Youtube:
+
+- [https://www.youtube.com/channel/UCexEYfjpo5fHdS05NjoQbTA](https://www.youtube.com/channel/UCexEYfjpo5fHdS05NjoQbTA) - My Personal Youtube
+- [~~https://youtube.com/enlitenthem~~](https://youtube.com/enlitenthem) - On a break
+
+Instagram:
+
+- [https://instagram.com/danielchiemelu](https://instagram.com/danielchiemelu)
+- [~~https://instagram.com/enlitenthem~~](https://instagram.com/enlitenthem) - On a break
