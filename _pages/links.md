@@ -11,6 +11,10 @@ My Domain Names:
 - [chukwuemekalum.com](chukwuemekalum.com)
 - chukwuemekalum.live
 
+Email:
+
+- [contact@chukwuemekalum.live](mailto:contact@chukwuemekalum.live)
+
 Twitter:
 
 - [https://twitter.com/danielchiemelu](https://twitter.com/danielchiemelu)
@@ -24,7 +28,7 @@ Facebook:
 
 Youtube:
 
-- [https://www.youtube.com/channel/UCexEYfjpo5fHdS05NjoQbTA](https://www.youtube.com/channel/UCexEYfjpo5fHdS05NjoQbTA) - My Personal Youtube
+- [Daniel Chiemelu Youtube](https://www.youtube.com/channel/UCexEYfjpo5fHdS05NjoQbTA) - My Personal Youtube
 - [~~https://youtube.com/enlitenthem~~](https://youtube.com/enlitenthem) - On a break
 
 Instagram:
