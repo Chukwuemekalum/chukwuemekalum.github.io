@@ -18,6 +18,6 @@ Twitter:
 
 Facebook:
 
-- [https://facebook.com/chukwuemekalumchiemelu](https://facebook.com/chukwuemekalumchiemelu) - My Personal Facebook
-- [https://facebook.com/danielchiemelu](https://facebook.com/danielchiemelu) - My Facebook Page
-- ~~[https://facebook.com/enlitenthem]~~(https://facebook.com/enlitenthem)
+- [https://fb.com/chukwuemekalumchiemelu](https://facebook.com/chukwuemekalumchiemelu) - My Personal Facebook
+- [https://fb.com/danielchiemelu](https://facebook.com/danielchiemelu) - My Facebook Page
+- [~~https://facebook.com/enlitenthem~~](https://facebook.com/enlitenthem)
