@@ -254,6 +254,7 @@ defaults:
       type: posts
     values:
       layout: single
+      clases: wide
       author_profile: true
       read_time: true
       comments: true
