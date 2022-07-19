@@ -223,7 +223,7 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags/tag-archive/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
@@ -240,10 +240,10 @@ tag_archive:
 
 # HTML Compression
 # - https://jch.penibelst.de/
-# compress_html:
-#   clippings: all
-#   ignore:
-#     envs: development
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 
 # Defaults
@@ -266,4 +266,5 @@ defaults:
       type: pages
     values:
       layout: single
+      clases: wide
       author_profile: true
