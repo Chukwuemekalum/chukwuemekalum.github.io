@@ -6,12 +6,6 @@ read_time: false
 
 Hi! Here are some links, emails, social media handles that are mine.
 
-```php
-
-    <?php
-class GO_Example_Model_Thing extends GO_Base_Db_ActiveRecord {
-```
-
 My Domain Names:
 
 - [chukwuemekalum.com](chukwuemekalum.com)
