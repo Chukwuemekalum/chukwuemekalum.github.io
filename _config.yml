@@ -26,7 +26,7 @@ twitter_username: danielchiemelu
 github_username: chukwuemekalum
 search: true
 url                      : "https://chukwuemekalum.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+# baseurl                  :  the subpath of your site, e.g. "/blog"
 # repository: chukwuemekalum/chukwuemekalum.github.io
 github: [metadata]
 email: contact@chukwuemekalum.live
@@ -187,7 +187,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 6 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: Africa/Lagos # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
