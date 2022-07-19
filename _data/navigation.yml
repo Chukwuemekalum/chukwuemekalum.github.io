@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
   - title: "CV"
-    url: {{site.auto.cv}}
-  - title: "Archive"
-    url: /posts/
+    url: /assets/docs/chukwuemekalum-daniel-chiemelu-resume.pdf
+  # - title: "Archive"
+  #   url: /posts/
