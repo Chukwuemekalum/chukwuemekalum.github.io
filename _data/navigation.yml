@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /assets/docs/chukwuemekalum-daniel-chiemelu-resume.pdf
   # - title: "Archive"
