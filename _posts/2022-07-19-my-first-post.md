@@ -3,36 +3,23 @@ title: "My First Post "
 date: 2022-07-19
 last_modified_at: 22-07-28T00:08 
 categories:
-  - blog
+  - Blog
+  - Personal
 toc: false
 toc_sticky: false
 tags:
-  - blog
-  - fish
+  - Blog
+  - New Beginning
 header:
   teaser: ""
 ---
 
-A tourist visiting England's Eton College asked the gardener how he got the
-lawns so perfect. "That's easy," he replied, "You just brush off the dew every
-morning, mow them every other day, and roll them once a week."
+As the title goes, this is my first post on my new blog.
+You being here and reading this, is very much appreciated.
 
-"Is that all?" asked the tourist.
+Okay, I do not know what exactly what to write at this point, but then
+I can say that as as when this post was updated, was when I was finally 
+through setting up the custom configurations and settings for my website
+to kick off.
 
-"Absolutely," replied the gardener. "Do that for 500 years and you'll have a
-nice lawn, too."
-
-Great lawns need small amounts of daily care, and so do great programmers. 
-
-Management consultants like to drop the word kaizen in conversations. "Kaizen"
-is a Japanese term that captures the concept of continuously making many small
-improvements. It was considered to be one of the main reasons for the dramatic
-gains in productivity and quality in Japanese manufacturing and was widely
-copied throughout the world. Kaizen applies to individuals, too. 
-
-Every day, work to refine the skills you have and to add new tools to your
-repertoire. Unlike the Eton lawns, you'll start seeing results in a matter of
-days. Over the years, you'll be amazed at how your experience has blossomed and
-your skills have grown.
-
-From: The Pragmatic Programmer
+I look forward to posting here >.<
