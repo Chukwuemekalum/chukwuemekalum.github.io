@@ -26,9 +26,9 @@
     </h2>
     <p class="page__meta">
       {% if post.last_modified_at %}
-        <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ include.last_modified_at | date: "%Y-%m-%d" }}">{{ include.last_modified_at | date: "%B %-d, %Y" }}</time></span>
+        <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %-d, %Y" }}</time></span>
       {% elsif post.date %}
-        <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: "%B %-d, %Y" }}</time></span>
+        <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></span>
       {% endif %}
       {% if post.read_time %}
         <span class="page__meta-sep"></span>
