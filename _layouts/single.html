@@ -32,7 +32,7 @@ layout: default
               {% if page.last_modified_at %}
                 <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></span>
               {% elsif page.date %}
-                <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
+                <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
               {% endif %}
               {% if page.read_time %}
                 <span class="page__meta-sep"></span>
@@ -67,7 +67,7 @@ layout: default
         {% if page.last_modified_at %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Published: </strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
         {% endif %}
       </footer>
 
