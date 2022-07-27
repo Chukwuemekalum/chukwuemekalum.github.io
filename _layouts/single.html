@@ -30,15 +30,17 @@ layout: default
             <p class="page__meta">
 
               {% if page.last_modified_at %}
-                <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></p>
+                <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></span>
               {% elsif page.date %}
-                <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+                <span class="page__meta-date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
               {% endif %}
               {% if page.read_time %}
                 <span class="page__meta-sep"></span>
-                <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+                <span class="page__meta-readtime">
+                  <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+                </span>
               {% endif %}
-              
+
             </p>
           
         </header>
