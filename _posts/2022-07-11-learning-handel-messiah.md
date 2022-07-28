@@ -1,5 +1,5 @@
 ---
-title: "Playing Handels Hallelujah Chorus" 
+title: "Learning Handels Hallelujah Chorus" 
 date: 2022-07-11
 # last_modified_at: 22-07-28T02:08 
 categories:
