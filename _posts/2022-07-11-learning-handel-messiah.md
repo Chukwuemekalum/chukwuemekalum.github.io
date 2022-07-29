@@ -28,7 +28,7 @@ My view of Handels Messiah when growing was a very ambugious piece like that mea
 I am not a pro now, but well... I'll still try my best. Its just less than 5 months before Christmas,
 lets see if I can learn it before then.
 
-## Introduction - Measures 1 - 21
+## Introduction: m. 1 - m. 21
 
 In as much as I know this piece is what I would love to learn, I am not that pressurized to learn in a haste.
 I am just taking my time to practice when I can. At times once a week, or twice, or more.  
@@ -44,15 +44,15 @@ My inability to move my fingers fast while reading sheet music is affecting me v
 is not worth talking about, but I'm trying. I had issues in measures 5,6,.. and others due to the fast movement of the fingers.
 So at times, I'm not sure I am exactly getting the complete notes, but I think 91% of what I play is correct
 
-## Measures 22
+## Measure 22
 
-I think measures 22 would occupy an entire *div* to itself. So far, its the only measure that I spent
+I think measure 22 would occupy an entire *div* to itself. So far, its the only measure that I spent
 almost two or more of my learning days.
 My timing was off, getting the tempo and all kept throwing me off balance. I listened to it being played on
 and on, but still couldn't get it.
 I played only my left hand to the point of memorization, but still I couldn't merge both together.
 
-![Measures 22 to 26 Handel Messiah](/assets/images/blog/measures-22-to-26.png)
+![Measures 22 to 27 Handel Messiah](/assets/images/blog/measures-22-to-27.png)
 
 Finally, I was able to get it right. My timing is not yet perfect, but with constant practice, I would be able to run
 through measures 22 - 25 at a go.
